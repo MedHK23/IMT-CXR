@@ -81,7 +81,7 @@ Public dataset:
 
 **Installation**
 ```bash
-git clone https://github.com/MedHK23/OmniFM-DR.git
+git clone https://github.com/MedHK23/IMT-CXR.git
 pip install -r requirements.txt
 ```
 
