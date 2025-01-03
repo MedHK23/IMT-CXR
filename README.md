@@ -1,23 +1,23 @@
-# OmniFM-DR
+# IMT-CXR
 
 ## News
-We now provide a pretrained OmniFM-DR on June 9, 2023! 
+We now provide a pretrained  IMT-CXR on June 9, 2023! 
 
 ## Online Demo
 Click the image to have a try with OmniFM-DR around the chest DR images
 
 <!-- Insert a pipeline of your algorithm here if got one -->
 <div align="center">
-    <a href="https://479d81e5a2e14b9538.gradio.live"><img width="600px" height="auto" src="https://github.com/MedHK23/OmniFM-DR/blob/main/resources/demo.gif"></a>
+    <a href="https://479d81e5a2e14b9538.gradio.live"><img width="600px" height="auto" src="https://github.com/MedHK23/IMT-CXR/blob/main/resources/demo.gif"></a>
 </div>
 
 
 ## Key Features
 
-This repository provides the official implementation of OmniFM-DR
+This repository provides the official implementation of IMT-CXR
 
 key feature bulletin points here
-- First multi-modality model for multi-task analysis of chest DR image
+- First multi-modality model for multi-task analysis of chest X-ray image
 - The largest full labeled chest DR dataset
 - Supoort 4 tpyes of downstream tasks
     - Classification
@@ -28,8 +28,8 @@ key feature bulletin points here
 ## Links
 
 - [Paper](https://arxiv.org/abs/2311.01092)
-- [Model](https://huggingface.co/MedHK23/OmniFM-DR)
-- [Dataset](https://huggingface.co/datasets/MedHK23/OmniFM-Dr)
+- [Model](https://huggingface.co/MedHK23/IMT-CXR)
+- [Dataset](https://huggingface.co/datasets/MedHK23/IMT-CXR)
 
 
 <!-- give a introduction of your project -->
